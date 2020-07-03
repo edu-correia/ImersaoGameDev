@@ -1,0 +1,27 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.botao-tela-inicial{
+  width: 250px;
+  height: 75px;
+  position: absolute;
+  background-color: #ee99aa;
+  color: #fff;
+  border: none;
+  border-radius: 25px;
+  font-size: 40px;
+  font-family: serif, sans-serif;
+  box-shadow: 5px 5px #dd8099;
+}
+
+.botao-tela-inicial:hover{
+  background-color: #dd7580;
+  box-shadow: 5px 5px #aa5560;
+  transition: all .3s;
+  color: #ddd;
+}
