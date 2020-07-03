@@ -19,7 +19,7 @@ let fps = 40;
 let largGameOver = 412;
 let altGameOver = 78;
 let jogo;
-let cenaAtual = 'jogo';
+let cenaAtual = 'telaInicial';
 let cenas;
 let telaInicial;
 let botaoGerenciador;
